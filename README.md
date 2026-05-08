@@ -28,11 +28,11 @@ Atualmente, busco aprimorar meus conhecimentos acadêmicos e estou aberto a nova
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielc476&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielc476&layout=compact&theme=dracula"/>
 </div>
 
 ### 📫 Como me encontrar
 
-<a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-castro-298154209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:gabrielc.cavalcante@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
