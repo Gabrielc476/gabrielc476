@@ -10,7 +10,7 @@ Atualmente, busco aprimorar meus conhecimentos acadêmicos e estou aberto a nova
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,python,mongodb,postgres,docker,firebase&theme=dark" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,nestjs,python,mongodb,postgres,docker,firebase&theme=dark" alt="Minhas Skills" />
   </a>
 </p>
 
