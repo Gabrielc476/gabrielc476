@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Olá,+eu+sou+o+Gabriel!+👋;Desenvolvedor+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Olá,+eu+sou+o+Gabriel!+👋;Desenvolvedor+Full-Stack" alt="Typing SVG" />
 </h1>
 
 Sou um **Desenvolvedor Full-Stack** focado em construir software escalável, sustentável e de fácil manutenção, aplicando constantemente conceitos de **Clean Architecture, SOLID e Clean Code**. 
@@ -22,8 +22,8 @@ Atualmente, busco aprimorar meus conhecimentos acadêmicos e estou aberto a nova
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielc476&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielc476&layout=compact&theme=tokyonight&hide_border=true&v=2" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gabrielc476&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabrielc476&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </p>
 
 ### 📫 Como me encontrar
